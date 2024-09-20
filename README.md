@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jesper Hoff</h1>
-<h3 font-size="20" align="left">A developer from Denmark with a strong passion for Web devedlopment and an unkindled love for Automation and IoT.</h3>
+<h3 font-size="20" align="left">A developer from Denmark with a strong passion for Web development and an unkindled love for Automation and IoT.</h3>
 <br>
 
 - 🌱 I’m currently learning **Complex React/TS techniques**
